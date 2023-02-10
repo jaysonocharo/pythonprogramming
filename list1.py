@@ -55,12 +55,12 @@ list3[2:]
 print(list3[1:3])
 
 #creating lists
-for i in range(10):
+#for i in range(10):
     #insert elements
-    numbers.append(i)
+    #numbers.append(i)
 
-for i in range (len(numbers)):
-    print(numbers[i])
+#for i in range (len(numbers)):
+    #print(numbers[i])
     
  #create a list for even numbers
     

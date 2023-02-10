@@ -1,0 +1,6 @@
+temp = eval(input("Enter temperature"))
+if temp <22:
+    print("Less than 22")
+else:
+    print("greater than 22")
+    

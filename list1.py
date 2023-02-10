@@ -70,5 +70,5 @@ for num in range(20):
         even_nums.append(num)
     
 for i in even_nums:
-    print(even_nums[i])
-    
+    print(i)
+     
